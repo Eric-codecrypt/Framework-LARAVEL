@@ -175,7 +175,7 @@ public function up()
 
 ---
 
-18) Softwares necessários para Laravel
+## 18) Softwares necessários para Laravel
 PHP (>= 8.0)
 
 Composer → Gerenciador de pacotes do PHP
@@ -189,10 +189,3 @@ Banco de dados (MySQL, PostgreSQL, SQLite)
 Git → Controle de versão
 
 VS Code ou outro editor de código
-
-perl
-Copiar
-Editar
-
-Se quiser, eu já posso **juntar tudo do 0 ao 18 em um único `.md` pronto** para você colar no GitHub.  
-Quer que eu faça o arquivo completo?
